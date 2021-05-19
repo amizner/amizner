@@ -3,7 +3,7 @@ Hey everyone!
 
 - 👋 My name is Adam
 - 🎙️ I’m a sound designer/musician interested in sound design and creation in video games.
-- 🌱 I’m currently learning C# and Java.
+- 🌱 Currently learning C# and Java.
 - 🕹️ I’m looking to collaborate on video games of all different genres!
 - 📫 You can find me on Twitter: [@AdamMizner](https://twitter.com/AdamMizner)
 
