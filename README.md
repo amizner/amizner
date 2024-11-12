@@ -1,4 +1,5 @@
-<p align="center"> <img src ="[https://previews.dropbox.com/p/thumb/ACdqQ5qVfaWhcCe0Qa_tF5lg9BvCA58z5UH_XDt0SgEuRUS49LJSSldBSiXPWLaKivpHbBfPn7B0_hvvmL-muEAk2ZuIpw_-5yHWTZrBkhXtIfnPbk_lG5b65DM9qqWBGPjWMRjz8MQWqJ4-VRtbtXjci7vLFqTlQcRWySKz-x7vcTUrAYluLE5YwUokbnbG2KJdyTftgplY186Zm3adu-TyP0t_QUT-uUR8_l7DhhbxcAYcndHTfQE8rNV5dT49eNfRnIa8E2eIWZRT-19uch-7wmzkfvkXrYg5rgMX51eQ8Q/p.png](https://www.dropbox.com/scl/fi/csdel3s46s319kti72hvi/LOGO-combined-white.png?rlkey=36rm4gde9kdbxib6fepw4pofs&st=qbi91ajn&dl=0)"> </p>
+<p align="center"> <img src ="https://images.squarespace-cdn.com/content/60ae609175dadf36a99da53d/1622040855231-KH7VFZ2B174NW0D0CRDV/LOGO%2Bcombined%2Bwhite.png?content-type=image%2Fpng" width=500> </p>
+
 
 <h3>It is my passion to provide others with the best sound design and quality in their work.</h3>
 
