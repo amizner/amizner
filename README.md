@@ -1,4 +1,9 @@
-<p align="center"> <img src ="https://images.squarespace-cdn.com/content/60ae609175dadf36a99da53d/1622040855231-KH7VFZ2B174NW0D0CRDV/LOGO%2Bcombined%2Bwhite.png?content-type=image%2Fpng" width=500> </p>
+<p align="center"> 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/60ae609175dadf36a99da53d/1622040855231-KH7VFZ2B174NW0D0CRDV/LOGO%2Bcombined%2Bwhite.png?content-type=image%2Fpng" width=500>
+ <img alt="Shows varying Adam logo in light and dark mode" src="https://images.squarespace-cdn.com/content/60ae609175dadf36a99da53d/1622040977200-R22MF1A2AKUVSSZ0IQQS/LOGO%2Bcombined%2Bblack.png?content-type=image%2Fpng" width=500>
+</picture>
+</p>
 
 
 <h3>It is my passion to provide others with the best sound design and quality in their work.</h3>
