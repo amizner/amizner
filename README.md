@@ -13,7 +13,7 @@ From my beginnings in Rockford, IL and through my experience obtaining my Master
 
 **What am I listening to:**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1215363357&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=fbba2d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1215363357&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=fbba2d&bar_color_cover=true)](https://open.spotify.com/user/1215363357)
 
 <h2>My Content</h2>
 
