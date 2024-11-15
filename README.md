@@ -17,7 +17,7 @@ From my beginnings in Rockford, IL and through my experience obtaining my Master
 
 **What I am currently listening to:**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1215363357&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=fbba2d&bar_color_cover=true)](https://open.spotify.com/user/1215363357)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1215363357&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ffcb0f&bar_color_cover=false)](https://open.spotify.com/user/1215363357)
 
 <h2>My Content</h2>
 
