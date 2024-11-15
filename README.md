@@ -22,7 +22,7 @@ From my beginnings in Rockford, IL and through my experience obtaining my Master
 <h2>My Content</h2>
 
 - &nbsp; [Personal Site](https://www.adammizner.com)
-- &nbsp; [LinkedIn](https://www.linkedin.com/adammizner)
+- &nbsp; [LinkedIn](https://www.linkedin.com/in/adammizner?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - &nbsp; [SoundCloud](https://soundcloud.com/adammizner)
 - &nbsp; [Instagram](https://www.instagram.com/adammizner)
 - &nbsp; [X](https://www.x.com/adammizner)
