@@ -1,7 +1,9 @@
 <p align="center"> 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/60ae609175dadf36a99da53d/1622040855231-KH7VFZ2B174NW0D0CRDV/LOGO%2Bcombined%2Bwhite.png?content-type=image%2Fpng" width=500>
- <img alt="Shows varying Adam logo in light and dark mode" src="https://images.squarespace-cdn.com/content/60ae609175dadf36a99da53d/1622040977200-R22MF1A2AKUVSSZ0IQQS/LOGO%2Bcombined%2Bblack.png?content-type=image%2Fpng" width=500>
+ <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/60ae609175dadf36a99da53d/28d5b018-7713-4990-9cd6-c08cb1ea145a/Transparent+layer+on+top+%281%29.png?content-type=image%2Fpng" width=500>
+ <img alt="Shows varying Adam logo in light and dark mode" src="https://images.squarespace-cdn.com/content/60ae609175dadf36a99da53d/4fa83e8b-c3c4-42dc-a78f-7b4fb1c313bb/ama_circlewithborder.png?content-type=image%2Fpng" width=500>
+
+ 
 </picture>
 </p>
 
