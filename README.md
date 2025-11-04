@@ -22,6 +22,15 @@ From my beginnings in Rockford, IL and through my experience obtaining my Master
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1215363357&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=ffcb0f&bar_color_cover=false)](https://open.spotify.com/user/1215363357) |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[amizner]/[amizner]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[amizner]/[amizner]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[amizner]/[amizner]/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
+
 <h2>My Content</h2>
 
 - &nbsp; [Personal Site](https://www.adammizner.com)
