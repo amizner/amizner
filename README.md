@@ -21,7 +21,7 @@
 </p>
 
 
-<h3>It is my passion to provide others with the best sound design and quality in their work.</h3>
+<h3>"It is my passion to provide others with the best sound design and quality through all of my work."</h3>
 
 From my beginnings in Rockford, IL and through my experience obtaining my Masters degree at Northwestern University, my goal as an audio engineer has been to raise all projects that I am a part of to a higher standard.  My work includes numerous films, music, and podcasts that have shown results. Some of these projects that I have had the pleasure of working on include MTV’s The Real World, feature length film Hunter, and a promotional piece for the apparel company Hermès. I am proud to offer a quality like no other. **Let’s put that into your work.**
 
