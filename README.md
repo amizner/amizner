@@ -13,7 +13,7 @@
 </div>
 <br>
 <p align="center">
-  CHECK OUT MY VIDEO!
+  <code style="color:white; background-color:black; padding:2px 4px; border-radius:2px;"> CHECK OUT MY VIDEO! </code>
   <br>
   <a href="https://youtu.be/519sG-aAoNg" target="_blank">
     <img src="https://github.com/user-attachments/assets/f2c2bdb8-930f-4dc1-93df-6876b1c346b8" width="400" alt="Watch the video">
