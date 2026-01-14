@@ -13,9 +13,9 @@
 </div>
 <br>
 <p align="center">
- CHECK OUT MY VIDEO!
- <br>
-  <a href="[https://youtu.be/VIDEO_ID](https://www.youtube.com/embed/519sG-aAoNg?si=qbqJVN9uKH2gUqNw)" target="_blank">
+  CHECK OUT MY VIDEO!
+  <br>
+  <a href="https://youtu.be/519sG-aAoNg" target="_blank">
     <img src="https://github.com/user-attachments/assets/f2c2bdb8-930f-4dc1-93df-6876b1c346b8" width="400" alt="Watch the video">
   </a>
 </p>
