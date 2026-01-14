@@ -11,10 +11,20 @@
 <div align="center">
 <a href="https://adammizner.com/screenslurps">PODCAST HOST</a> | <a href="https://amizner.itch.io/">GAME DESIGNER</a> | <a href="https://www.adammizner.com/blog">BLOG</a> 
 </div>
+<br>
+<p align="center">
+ CHECK OUT MY VIDEO!
+ <br>
+  <a href="[https://youtu.be/VIDEO_ID](https://www.youtube.com/embed/519sG-aAoNg?si=qbqJVN9uKH2gUqNw)" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f2c2bdb8-930f-4dc1-93df-6876b1c346b8" width="400" alt="Watch the video">
+  </a>
+</p>
+
 
 <h3>It is my passion to provide others with the best sound design and quality in their work.</h3>
 
-From my beginnings in Rockford, IL and through my experience obtaining my Masters degree at Northwestern University, my goal as an audio engineer has been to raise all projects that I am a part of to a higher standard.  My work includes numerous films, music, and podcasts that have shown results. Some of these projects that I have had the pleasure of working on include MTV’s The Real World, feature length film Hunter, and a promotional piece for the apparel company Hermès. I am proud to offer a quality like no other. **Let’s put that into your work.** 
+From my beginnings in Rockford, IL and through my experience obtaining my Masters degree at Northwestern University, my goal as an audio engineer has been to raise all projects that I am a part of to a higher standard.  My work includes numerous films, music, and podcasts that have shown results. Some of these projects that I have had the pleasure of working on include MTV’s The Real World, feature length film Hunter, and a promotional piece for the apparel company Hermès. I am proud to offer a quality like no other. **Let’s put that into your work.**
+
 
 <img src ="https://images.squarespace-cdn.com/content/v1/54809453e4b002e3c082fde4/1589845524683-L91LLSTUXUYJKUQ9S68J/ke17ZwdGBToddI8pDm48kK60W-ob1oA2Fm-j4E_9NQB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0kD6Ec8Uq9YczfrzwR7e2Mh5VMMOxnTbph8FXiclivDQnof69TlCeE0rAhj6HUpXkw/image-asset.jpeg?format=1000w" width=300>
 
